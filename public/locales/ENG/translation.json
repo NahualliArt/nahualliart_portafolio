@@ -16,9 +16,9 @@
 "seniorTitle":"BIZBUD Senior digital designer",
 "titlePage":"Abigail Pérez",
 "abigailText":"UI DESIGNER & FREELANCER",
-"descripcionText1":"I'm passionate about challenges and always learning new things. If I defined myself I would say that I'm an interesting combination of design, development, technology and art.",
-"descripcionText2":"I am an artist who took a tour of interface design a few years ago, I have collaborated in the design of multiple projects, and worked with clients from various parts of the world, such as the USA, Colombia and Mexico.",
-"descripcionText3":"All projects are a unique opportunity to learn new things and a great way to open horizons.",
+"infoText1":"I'm passionate about challenges and always learning new things. If I defined myself I would say that I'm an interesting combination of design, development, technology and art.",
+"infoText2":"I am an artist who took a tour of interface design a few years ago, I have collaborated in the design of multiple projects, and worked with clients from various parts of the world, such as the USA, Colombia and Mexico.",
+"infoText3":"All projects are a unique opportunity to learn new things and a great way to open horizons.",
 
 },
 
@@ -32,5 +32,11 @@
 "Ilustraciontext":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam dui in ac pulvinar amet. Sit morbi enim quis amet, nibh cras vel suspendisse eleifend. Maecenas",
 "DiseñoTitle":"Gráfic Desing",
 "Diseñotext":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam dui in ac pulvinar amet. Sit morbi enim quis amet, nibh cras vel suspendisse eleifend. Maecenas",
-
+"footerText":"UI DESIGNER - FRONT DESIGNER - ILUSTRATOR - VISUAL ARTIST",
 },
+
+"contact":{
+    "emailtext":"EMAIL",
+    "emailTitle":"abigail@nahualiart.com",
+    "wahtsapptext":"+52 3326 3145 60",
+}
