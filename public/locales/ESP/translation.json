@@ -1,0 +1,36 @@
+"menu" {
+    "1": "Inicio",
+    "2": "Mis Servicios",
+    "3": "Portafolio",
+    "4": "Contacto",
+    "5": "Sobre mi",
+},
+
+
+"home": {
+"titlePage":"Portfolio Abigail",
+"estoyenText":"ESTOY EN",
+"gdlTitle":"Guadalajara, Mx.",
+"trabajoenText":"ACTUALMENTE TRABAJO EN",
+"UITitle":"BYP, UI Head Designer",
+"seniorTitle":"BIZBUD Senior digital designer",
+"titlePage":"Abigail Pérez",
+"abigailText":"UI DESIGNER & FREELANCER",
+"descripcionText1":"Me apasionan los retos y estar siempre aprendiendo cosas nuevas. Si me definiera a mi misma diría que soy una interesante combinación entre diseño, desarrollo, tecnología y arte.",
+"descripcionText2":"Soy una artista que se dio una vuelta por el diseño de interfaces hace algunos años, he colaborado en el diseño de multiples proyectos, y trabajado con clientes de varias partes del mundo, como USA, Colombia y México.",
+"descripcionText3":"Todos los proyectos son una oportunidad única de aprender nuevas cosas y una excelente manera de abrir horizontes.",
+
+},
+"footer":"Copyright © 2022 Abigail P",
+
+"services":{
+"titleName":"MIS SERVICIOS INCLUYEN",
+"UITitle":"UI Design",
+"UItext":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam dui in ac pulvinar amet. Sit morbi enim quis amet, nibh cras vel suspendisse eleifend. Maecenas",
+"IlustracionTitle":"Ilustración",
+"Ilustraciontext":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam dui in ac pulvinar amet. Sit morbi enim quis amet, nibh cras vel suspendisse eleifend. Maecenas",
+"DiseñoTitle":"Diseño Gráfico",
+"Diseñotext":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam dui in ac pulvinar amet. Sit morbi enim quis amet, nibh cras vel suspendisse eleifend. Maecenas",
+
+},
+
